@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: ac4f66f64356f0546922bab5e34e05f5
+timeCreated: 1473513224
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: black pumpkin animation_0
+    21300002: black pumpkin animation_1
+    21300004: black pumpkin animation_2
+    21300006: black pumpkin animation_3
+    21300008: black pumpkin animation_4
+    21300010: black pumpkin animation_5
+    21300012: black pumpkin animation_6
+    21300014: black pumpkin animation_7
+    21300016: black pumpkin animation_8
+    21300018: black pumpkin animation_9
+    21300020: black pumpkin animation_10
+    21300022: black pumpkin animation_11
+    21300024: black pumpkin animation_12
+    21300026: black pumpkin animation_13
+    21300028: black pumpkin animation_14
+    21300030: black pumpkin animation_15
+    21300032: black pumpkin animation_16
+    21300034: black pumpkin animation_17
+    21300036: black pumpkin animation_18
+    21300038: black pumpkin animation_19
+    21300040: black pumpkin animation_20
+    21300042: black pumpkin animation_21
+    21300044: black pumpkin animation_22
+    21300046: black pumpkin animation_23
+    21300048: black pumpkin animation_24
+    21300050: black pumpkin animation_25
+    21300052: black pumpkin animation_26
+    21300054: black pumpkin animation_27
+    21300056: black pumpkin animation_28
+    21300058: black pumpkin animation_29
+    21300060: black pumpkin animation_30
+    21300062: black pumpkin animation_31
+    21300064: black pumpkin animation_32
+    21300066: black pumpkin animation_33
+    21300068: black pumpkin animation_34
+    21300070: black pumpkin animation_35
+    21300072: black pumpkin animation_36
+    21300074: black pumpkin animation_37
+    21300076: black pumpkin animation_38
+    21300078: black pumpkin animation_39
+    21300080: black pumpkin animation_40
+    21300082: black pumpkin animation_41
+    21300084: black pumpkin animation_42
+    21300086: black pumpkin animation_43
+    21300088: black pumpkin animation_44
+    21300090: black pumpkin animation_45
+    21300092: black pumpkin animation_46
+    21300094: black pumpkin animation_47
+    21300096: black pumpkin animation_48
+    21300098: black pumpkin animation_49
+    21300100: black pumpkin animation_50
+    21300102: black pumpkin animation_51
+    21300104: black pumpkin animation_52
+    21300106: black pumpkin animation_53
+    21300108: black pumpkin animation_54
+    21300110: black pumpkin animation_55
+    21300112: black pumpkin animation_56
+    21300114: black pumpkin animation_57
+    21300116: black pumpkin animation_58
+    21300118: black pumpkin animation_59
+    21300120: black pumpkin animation_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: black pumpkin animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 74.75012}
+        - {x: -33.5, y: 74.75012}
+        - {x: -65.5, y: 32.750122}
+        - {x: -65.5, y: -43.249878}
+        - {x: -30.5, y: -71.24988}
+        - {x: 39.5, y: -71.24988}
+        - {x: 55.5, y: -67.24988}
+        - {x: 73.5, y: -33.249878}
+        - {x: 73.5, y: 8.750122}
+        - {x: 57.5, y: 37.750122}
+    - name: black pumpkin animation_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4800
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.33333, y: 74.75012}
+        - {x: -64.33333, y: -71.24988}
+        - {x: 38.66667, y: -71.24988}
+        - {x: 73.66667, y: -55.249878}
+        - {x: 73.66667, y: 4.750122}
+        - {x: 70.66667, y: 18.750122}
+        - {x: 0.66667175, y: 73.75012}
+        - {x: -7.3333282, y: 74.75012}
+    - name: black pumpkin animation_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4800
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.8333435, y: 74.75012}
+        - {x: -19.166656, y: 74.75012}
+        - {x: -41.166656, y: 50.750122}
+        - {x: -64.16666, y: 6.750122}
+        - {x: -64.16666, y: -52.249878}
+        - {x: -38.166656, y: -71.24988}
+        - {x: 35.833344, y: -71.24988}
+        - {x: 73.83334, y: -56.249878}
+        - {x: 73.83334, y: 15.750122}
+        - {x: 10.8333435, y: 73.75012}
+    - name: black pumpkin animation_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4800
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 74.75012}
+        - {x: -29, y: 66.75012}
+        - {x: -63, y: 24.750122}
+        - {x: -64, y: 19.750122}
+        - {x: -64, y: -49.249878}
+        - {x: -43, y: -65.24988}
+        - {x: -24, y: -71.24988}
+        - {x: 41, y: -71.24988}
+        - {x: 74, y: -46.249878}
+        - {x: 74, y: 29.750122}
+        - {x: 6, y: 74.75012}
+    - name: black pumpkin animation_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4800
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.833313, y: 75.75012}
+        - {x: -60.833313, y: 47.750122}
+        - {x: -63.833313, y: 39.750122}
+        - {x: -63.833313, y: -71.24988}
+        - {x: 42.166687, y: -71.24988}
+        - {x: 74.16669, y: -50.249878}
+        - {x: 74.16669, y: 14.750122}
+        - {x: 60.166687, y: 32.750122}
+        - {x: 9.166687, y: 69.75012}
+        - {x: -9.833313, y: 75.75012}
+    - name: black pumpkin animation_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4800
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.333374, y: 75.75012}
+        - {x: -28.666626, y: 75.75012}
+        - {x: -63.666626, y: 24.750122}
+        - {x: -63.666626, y: -46.249878}
+        - {x: -36.666626, y: -71.24988}
+        - {x: 46.333374, y: -71.24988}
+        - {x: 74.333374, y: -61.249878}
+        - {x: 74.333374, y: 31.750122}
+        - {x: 68.333374, y: 55.750122}
+    - name: black pumpkin animation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 75.625}
+        - {x: -40.5, y: 75.625}
+        - {x: -65.5, y: 20.625}
+        - {x: -65.5, y: -55.375}
+        - {x: -35.5, y: -71.375}
+        - {x: 72.5, y: -71.375}
+        - {x: 73.5, y: -66.375}
+        - {x: 73.5, y: 49.625}
+    - name: black pumpkin animation_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4320
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.333328, y: 76.625}
+        - {x: -19.333328, y: 76.625}
+        - {x: -64.33333, y: 14.625}
+        - {x: -64.33333, y: -60.375}
+        - {x: -55.33333, y: -71.375}
+        - {x: 46.66667, y: -71.375}
+        - {x: 73.66667, y: -54.375}
+        - {x: 73.66667, y: 9.625}
+        - {x: 8.666672, y: 71.625}
+    - name: black pumpkin animation_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4320
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.166656, y: 76.625}
+        - {x: -28.166656, y: 59.625}
+        - {x: -64.16666, y: 22.625}
+        - {x: -64.16666, y: -68.375}
+        - {x: -51.166656, y: -71.375}
+        - {x: 73.83334, y: -71.375}
+        - {x: 73.83334, y: 21.625}
+        - {x: 33.833344, y: 76.625}
+    - name: black pumpkin animation_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 77.625}
+        - {x: -64, y: 40.625}
+        - {x: -64, y: -71.375}
+        - {x: 52, y: -71.375}
+        - {x: 74, y: -56.375}
+        - {x: 74, y: 11.625}
+        - {x: 32, y: 77.625}
+    - name: black pumpkin animation_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4320
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.833313, y: 77.625}
+        - {x: -26.833313, y: 71.625}
+        - {x: -21.833313, y: 62.625}
+        - {x: -63.833313, y: 8.625}
+        - {x: -63.833313, y: -31.375}
+        - {x: -55.833313, y: -56.375}
+        - {x: -23.833313, y: -71.375}
+        - {x: 40.166687, y: -71.375}
+        - {x: 68.16669, y: -65.375}
+        - {x: 74.16669, y: -36.375}
+        - {x: 74.16669, y: 21.625}
+        - {x: 7.166687, y: 77.625}
+    - name: black pumpkin animation_11
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4320
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.666626, y: 78.625}
+        - {x: -63.666626, y: -71.375}
+        - {x: 39.333374, y: -71.375}
+        - {x: 74.333374, y: -56.375}
+        - {x: 74.333374, y: 13.625}
+        - {x: -4.666626, y: 78.625}
+    - name: black pumpkin animation_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 78.5}
+        - {x: -41.5, y: 78.5}
+        - {x: -65.5, y: 47.5}
+        - {x: -65.5, y: -50.5}
+        - {x: -54.5, y: -69.5}
+        - {x: -49.5, y: -71.5}
+        - {x: 46.5, y: -71.5}
+        - {x: 73.5, y: -43.5}
+        - {x: 73.5, y: 16.5}
+        - {x: 59.5, y: 32.5}
+    - name: black pumpkin animation_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3840
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.6666718, y: 78.5}
+        - {x: -23.333328, y: 78.5}
+        - {x: -64.33333, y: 27.5}
+        - {x: -64.33333, y: -46.5}
+        - {x: -50.33333, y: -71.5}
+        - {x: 52.66667, y: -71.5}
+        - {x: 73.66667, y: -38.5}
+        - {x: 73.66667, y: 14.5}
+        - {x: 12.666672, y: 75.5}
+    - name: black pumpkin animation_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3840
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.8333435, y: 79.5}
+        - {x: -14.1666565, y: 79.5}
+        - {x: -17.166656, y: 72.5}
+        - {x: -64.16666, y: 13.5}
+        - {x: -64.16666, y: -34.5}
+        - {x: -44.166656, y: -60.5}
+        - {x: -26.166656, y: -71.5}
+        - {x: 32.833344, y: -71.5}
+        - {x: 73.83334, y: -59.5}
+        - {x: 73.83334, y: 9.5}
+        - {x: 48.833344, y: 40.5}
+    - name: black pumpkin animation_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 79.5}
+        - {x: -64, y: 12.5}
+        - {x: -64, y: -47.5}
+        - {x: -28, y: -71.5}
+        - {x: 59, y: -71.5}
+        - {x: 74, y: -37.5}
+        - {x: 74, y: 14.5}
+        - {x: 3, y: 79.5}
+    - name: black pumpkin animation_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3840
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.833313, y: 79.5}
+        - {x: -62.833313, y: 21.5}
+        - {x: -62.833313, y: -43.5}
+        - {x: -56.833313, y: -56.5}
+        - {x: -21.833313, y: -71.5}
+        - {x: 52.166687, y: -71.5}
+        - {x: 74.16669, y: -41.5}
+        - {x: 74.16669, y: 28.5}
+        - {x: 31.166687, y: 79.5}
+    - name: black pumpkin animation_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3840
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.666626, y: 79.5}
+        - {x: -63.666626, y: 38.5}
+        - {x: -63.666626, y: -53.5}
+        - {x: -55.666626, y: -71.5}
+        - {x: 70.333374, y: -71.5}
+        - {x: 74.333374, y: -51.5}
+        - {x: 74.333374, y: 22.5}
+        - {x: 14.333374, y: 79.5}
+    - name: black pumpkin animation_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.5, y: 30.375}
+        - {x: 15.5, y: 81.375}
+        - {x: -27.5, y: 81.375}
+        - {x: -64.5, y: 15.375}
+        - {x: -64.5, y: -59.625}
+        - {x: -61.5, y: -62.625}
+        - {x: -32.5, y: -69.625}
+        - {x: 50.5, y: -69.625}
+        - {x: 63.5, y: -52.625}
+        - {x: 73.5, y: -32.625}
+        - {x: 73.5, y: 2.375}
+    - name: black pumpkin animation_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3360
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.3333282, y: 81.375}
+        - {x: -64.33333, y: 19.375}
+        - {x: -64.33333, y: -45.625}
+        - {x: -24.333328, y: -68.625}
+        - {x: -16.333328, y: -69.625}
+        - {x: 29.666672, y: -69.625}
+        - {x: 73.66667, y: -50.625}
+        - {x: 73.66667, y: 27.375}
+        - {x: 10.666672, y: 81.375}
+    - name: black pumpkin animation_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3360
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.1666565, y: 81.375}
+        - {x: -64.16666, y: 25.375}
+        - {x: -64.16666, y: -53.625}
+        - {x: -39.166656, y: -69.625}
+        - {x: 38.833344, y: -69.625}
+        - {x: 73.83334, y: -53.625}
+        - {x: 73.83334, y: 22.375}
+        - {x: 25.833344, y: 81.375}
+    - name: black pumpkin animation_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3360
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 81.375}
+        - {x: 4, y: 81.375}
+        - {x: -41, y: 38.375}
+        - {x: -64, y: 6.375}
+        - {x: -64, y: -30.625}
+        - {x: -55, y: -48.625}
+        - {x: -24, y: -69.625}
+        - {x: 21, y: -69.625}
+        - {x: 34, y: -68.625}
+        - {x: 74, y: -43.625}
+        - {x: 74, y: 10.375}
+        - {x: 71, y: 22.375}
+    - name: black pumpkin animation_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3360
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.833313, y: 81.375}
+        - {x: -63.833313, y: 18.375}
+        - {x: -63.833313, y: -42.625}
+        - {x: -33.833313, y: -69.625}
+        - {x: 60.166687, y: -69.625}
+        - {x: 74.16669, y: -33.625}
+        - {x: 74.16669, y: 11.375}
+        - {x: 23.166687, y: 81.375}
+    - name: black pumpkin animation_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3360
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.666626, y: 80.375}
+        - {x: -62.666626, y: 26.375}
+        - {x: -63.666626, y: 25.375}
+        - {x: -63.666626, y: -51.625}
+        - {x: -33.666626, y: -69.625}
+        - {x: 52.333374, y: -69.625}
+        - {x: 74.333374, y: -48.625}
+        - {x: 74.333374, y: 15.375}
+        - {x: 21.333374, y: 80.375}
+    - name: black pumpkin animation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 80.25}
+        - {x: -65.5, y: 27.25}
+        - {x: -65.5, y: -66.75}
+        - {x: -50.5, y: -69.75}
+        - {x: 61.5, y: -69.75}
+        - {x: 73.5, y: -47.75}
+        - {x: 73.5, y: 25.25}
+        - {x: 42.5, y: 80.25}
+    - name: black pumpkin animation_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2880
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.66667175, y: 80.25}
+        - {x: -64.33333, y: 9.25}
+        - {x: -64.33333, y: -38.75}
+        - {x: -34.33333, y: -69.75}
+        - {x: 59.66667, y: -69.75}
+        - {x: 72.66667, y: -35.75}
+        - {x: 72.66667, y: 16.25}
+        - {x: 24.666672, y: 80.25}
+    - name: black pumpkin animation_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2880
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.833344, y: 80.25}
+        - {x: 5.8333435, y: 80.25}
+        - {x: -52.166656, y: 33.25}
+        - {x: -64.16666, y: 7.25}
+        - {x: -64.16666, y: -54.75}
+        - {x: -31.166656, y: -69.75}
+        - {x: 51.833344, y: -69.75}
+        - {x: 73.83334, y: -50.75}
+        - {x: 73.83334, y: 10.25}
+        - {x: 69.83334, y: 21.25}
+    - name: black pumpkin animation_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 79.25}
+        - {x: 10, y: 79.25}
+        - {x: -64, y: 23.25}
+        - {x: -64, y: -55.75}
+        - {x: -26, y: -69.75}
+        - {x: 59, y: -69.75}
+        - {x: 74, y: -35.75}
+        - {x: 74, y: 24.25}
+    - name: black pumpkin animation_28
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2880
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.166687, y: 79.25}
+        - {x: -63.833313, y: 17.25}
+        - {x: -63.833313, y: -46.75}
+        - {x: -44.833313, y: -69.75}
+        - {x: 50.166687, y: -69.75}
+        - {x: 74.16669, y: -54.75}
+        - {x: 74.16669, y: 22.25}
+        - {x: 32.166687, y: 79.25}
+    - name: black pumpkin animation_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2880
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.333374, y: 79.25}
+        - {x: 4.333374, y: 70.25}
+        - {x: -2.666626, y: 63.25}
+        - {x: -53.666626, y: 19.25}
+        - {x: -63.666626, y: 2.25}
+        - {x: -63.666626, y: -35.75}
+        - {x: -45.666626, y: -64.75}
+        - {x: -32.666626, y: -69.75}
+        - {x: 47.333374, y: -69.75}
+        - {x: 74.333374, y: -46.75}
+        - {x: 74.333374, y: 17.25}
+        - {x: 29.333374, y: 79.25}
+    - name: black pumpkin animation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 78.12506}
+        - {x: -56.5, y: 37.12506}
+        - {x: -65.5, y: 8.125061}
+        - {x: -65.5, y: -45.87494}
+        - {x: -26.5, y: -70.87494}
+        - {x: 38.5, y: -70.87494}
+        - {x: 73.5, y: -63.87494}
+        - {x: 73.5, y: 27.125061}
+        - {x: 41.5, y: 78.12506}
+    - name: black pumpkin animation_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2400
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.666672, y: 78.12506}
+        - {x: 7.6666718, y: 78.12506}
+        - {x: -64.33333, y: 19.125061}
+        - {x: -64.33333, y: -45.87494}
+        - {x: -35.33333, y: -70.87494}
+        - {x: 32.66667, y: -70.87494}
+        - {x: 37.66667, y: -68.87494}
+        - {x: 73.66667, y: -38.87494}
+        - {x: 73.66667, y: 5.125061}
+        - {x: 62.66667, y: 37.12506}
+    - name: black pumpkin animation_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2400
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.8333435, y: 77.12506}
+        - {x: -64.16666, y: 30.125061}
+        - {x: -64.16666, y: -47.87494}
+        - {x: -31.166656, y: -70.87494}
+        - {x: 49.833344, y: -70.87494}
+        - {x: 61.833344, y: -65.87494}
+        - {x: 73.83334, y: -33.87494}
+        - {x: 73.83334, y: 20.125061}
+        - {x: 39.833344, y: 77.12506}
+    - name: black pumpkin animation_33
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2400
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 77.12506}
+        - {x: -57, y: 17.125061}
+        - {x: -64, y: 4.125061}
+        - {x: -64, y: -30.874939}
+        - {x: -48, y: -70.87494}
+        - {x: 54, y: -70.87494}
+        - {x: 74, y: -55.87494}
+        - {x: 74, y: 39.12506}
+        - {x: 52, y: 77.12506}
+    - name: black pumpkin animation_34
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2400
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.166687, y: 77.12506}
+        - {x: -59.833313, y: 43.12506}
+        - {x: -63.833313, y: 26.125061}
+        - {x: -63.833313, y: -59.87494}
+        - {x: -37.833313, y: -70.87494}
+        - {x: 48.166687, y: -70.87494}
+        - {x: 61.166687, y: -69.87494}
+        - {x: 74.16669, y: -38.87494}
+        - {x: 74.16669, y: 28.125061}
+        - {x: 41.166687, y: 77.12506}
+    - name: black pumpkin animation_35
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2400
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.333374, y: 76.12506}
+        - {x: -63.666626, y: 33.12506}
+        - {x: -63.666626, y: -50.87494}
+        - {x: -33.666626, y: -70.87494}
+        - {x: 29.333374, y: -70.87494}
+        - {x: 52.333374, y: -64.87494}
+        - {x: 74.333374, y: -55.87494}
+        - {x: 74.333374, y: 27.125061}
+        - {x: 44.333374, y: 76.12506}
+    - name: black pumpkin animation_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 76}
+        - {x: -65.5, y: 32}
+        - {x: -65.5, y: -39}
+        - {x: -35.5, y: -71}
+        - {x: 40.5, y: -71}
+        - {x: 73.5, y: -48}
+        - {x: 73.5, y: 10}
+        - {x: 44.5, y: 76}
+    - name: black pumpkin animation_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.666672, y: 76}
+        - {x: -1.3333282, y: 74}
+        - {x: -64.33333, y: 35}
+        - {x: -64.33333, y: -49}
+        - {x: -55.33333, y: -71}
+        - {x: 33.66667, y: -71}
+        - {x: 73.66667, y: -55}
+        - {x: 73.66667, y: 29}
+        - {x: 47.66667, y: 76}
+    - name: black pumpkin animation_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.1666565, y: 75}
+        - {x: -64.16666, y: 31}
+        - {x: -64.16666, y: -33}
+        - {x: -52.166656, y: -55}
+        - {x: -27.166656, y: -71}
+        - {x: 34.833344, y: -71}
+        - {x: 73.83334, y: -54}
+        - {x: 73.83334, y: 22}
+        - {x: 41.833344, y: 75}
+    - name: black pumpkin animation_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 75}
+        - {x: -64, y: 22}
+        - {x: -64, y: -44}
+        - {x: -27, y: -71}
+        - {x: 59, y: -71}
+        - {x: 74, y: -50}
+        - {x: 74, y: 49}
+        - {x: 60, y: 75}
+    - name: black pumpkin animation_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1920
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.166687, y: 74}
+        - {x: -11.833313, y: 70}
+        - {x: -63.833313, y: 6}
+        - {x: -63.833313, y: -64}
+        - {x: -61.833313, y: -71}
+        - {x: 62.166687, y: -71}
+        - {x: 74.16669, y: -55}
+        - {x: 74.16669, y: 20}
+        - {x: 36.166687, y: 74}
+    - name: black pumpkin animation_41
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1920
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.333374, y: 74}
+        - {x: -63.666626, y: 19}
+        - {x: -63.666626, y: -43}
+        - {x: -29.666626, y: -71}
+        - {x: 37.333374, y: -71}
+        - {x: 63.333374, y: -63}
+        - {x: 74.333374, y: -55}
+        - {x: 74.333374, y: 16}
+        - {x: 37.333374, y: 74}
+    - name: black pumpkin animation_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 73.875}
+        - {x: -65.5, y: 17.875}
+        - {x: -65.5, y: -62.125}
+        - {x: -62.5, y: -71.125}
+        - {x: 67.5, y: -71.125}
+        - {x: 73.5, y: -70.125}
+        - {x: 73.5, y: 37.875}
+        - {x: 32.5, y: 73.875}
+    - name: black pumpkin animation_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1440
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.3333282, y: 72.875}
+        - {x: -64.33333, y: 41.875}
+        - {x: -64.33333, y: -66.125}
+        - {x: -54.33333, y: -71.125}
+        - {x: 33.66667, y: -71.125}
+        - {x: 73.66667, y: -59.125}
+        - {x: 73.66667, y: 30.875}
+        - {x: 48.66667, y: 72.875}
+    - name: black pumpkin animation_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1440
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.1666565, y: 72.875}
+        - {x: -64.16666, y: 11.875}
+        - {x: -64.16666, y: -62.125}
+        - {x: -29.166656, y: -71.125}
+        - {x: 55.833344, y: -71.125}
+        - {x: 73.83334, y: -60.125}
+        - {x: 73.83334, y: 49.875}
+        - {x: 25.833344, y: 72.875}
+    - name: black pumpkin animation_45
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 72.875}
+        - {x: 0, y: 72.875}
+        - {x: -46, y: 42.875}
+        - {x: -64, y: 9.875}
+        - {x: -64, y: -56.125}
+        - {x: -34, y: -71.125}
+        - {x: 60, y: -71.125}
+        - {x: 74, y: -38.125}
+        - {x: 74, y: 22.875}
+    - name: black pumpkin animation_46
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1440
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.833313, y: 72.875}
+        - {x: -62.833313, y: 26.875}
+        - {x: -62.833313, y: -44.125}
+        - {x: -46.833313, y: -71.125}
+        - {x: 43.166687, y: -71.125}
+        - {x: 74.16669, y: -47.125}
+        - {x: 74.16669, y: 26.875}
+        - {x: 20.166687, y: 72.875}
+    - name: black pumpkin animation_47
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1440
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.666626, y: 72.875}
+        - {x: -63.666626, y: 23.875}
+        - {x: -63.666626, y: -55.125}
+        - {x: -39.666626, y: -71.125}
+        - {x: 42.333374, y: -71.125}
+        - {x: 66.333374, y: -65.125}
+        - {x: 74.333374, y: -40.125}
+        - {x: 74.333374, y: 29.875}
+        - {x: 38.333374, y: 72.875}
+    - name: black pumpkin animation_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 72.75}
+        - {x: -65.5, y: 24.75}
+        - {x: -65.5, y: -59.25}
+        - {x: -54.5, y: -71.25}
+        - {x: 50.5, y: -71.25}
+        - {x: 73.5, y: -58.25}
+        - {x: 73.5, y: 20.75}
+        - {x: 71.5, y: 23.75}
+        - {x: 17.5, y: 67.75}
+        - {x: 9.5, y: 72.75}
+    - name: black pumpkin animation_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.3333282, y: 72.75}
+        - {x: -64.33333, y: 28.75}
+        - {x: -64.33333, y: -61.25}
+        - {x: -38.33333, y: -71.25}
+        - {x: 48.66667, y: -71.25}
+        - {x: 73.66667, y: -44.25}
+        - {x: 73.66667, y: 15.75}
+        - {x: 37.66667, y: 72.75}
+    - name: black pumpkin animation_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.166656, y: 72.75}
+        - {x: -64.16666, y: 35.75}
+        - {x: -64.16666, y: -50.25}
+        - {x: -56.166656, y: -71.25}
+        - {x: 64.83334, y: -71.25}
+        - {x: 73.83334, y: -46.25}
+        - {x: 73.83334, y: 20.75}
+        - {x: 29.833344, y: 72.75}
+    - name: black pumpkin animation_51
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 72.75}
+        - {x: -64, y: 38.75}
+        - {x: -64, y: -48.25}
+        - {x: -27, y: -71.25}
+        - {x: 74, y: -71.25}
+        - {x: 74, y: 42.75}
+        - {x: 39, y: 72.75}
+    - name: black pumpkin animation_52
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 960
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.166687, y: 32.75}
+        - {x: 8.166687, y: 71.75}
+        - {x: 2.166687, y: 72.75}
+        - {x: -12.833313, y: 72.75}
+        - {x: -63.833313, y: 9.75}
+        - {x: -63.833313, y: -54.25}
+        - {x: -19.833313, y: -71.25}
+        - {x: 42.166687, y: -71.25}
+        - {x: 53.166687, y: -65.25}
+        - {x: 74.16669, y: -41.25}
+        - {x: 74.16669, y: 2.75}
+    - name: black pumpkin animation_53
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 960
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.666626, y: 72.75}
+        - {x: -63.666626, y: 12.75}
+        - {x: -63.666626, y: -45.25}
+        - {x: -30.666626, y: -71.25}
+        - {x: 53.333374, y: -71.25}
+        - {x: 74.333374, y: -43.25}
+        - {x: 74.333374, y: 22.75}
+        - {x: 23.333374, y: 72.75}
+    - name: black pumpkin animation_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 72.625}
+        - {x: -36.5, y: 72.625}
+        - {x: -65.5, y: 23.625}
+        - {x: -65.5, y: -39.375}
+        - {x: -62.5, y: -55.375}
+        - {x: -52.5, y: -71.375}
+        - {x: 70.5, y: -71.375}
+        - {x: 73.5, y: -59.375}
+        - {x: 73.5, y: 22.625}
+        - {x: 27.5, y: 71.625}
+    - name: black pumpkin animation_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.666672, y: 72.625}
+        - {x: -29.333328, y: 72.625}
+        - {x: -35.33333, y: 69.625}
+        - {x: -64.33333, y: 5.625}
+        - {x: -64.33333, y: -51.375}
+        - {x: -60.33333, y: -59.375}
+        - {x: -25.333328, y: -71.375}
+        - {x: 44.66667, y: -71.375}
+        - {x: 73.66667, y: -52.375}
+        - {x: 73.66667, y: 21.625}
+    - name: black pumpkin animation_56
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 480
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.83334, y: 37.625}
+        - {x: 12.8333435, y: 73.625}
+        - {x: -34.166656, y: 73.625}
+        - {x: -64.16666, y: 36.625}
+        - {x: -64.16666, y: -62.375}
+        - {x: -33.166656, y: -71.375}
+        - {x: 40.833344, y: -71.375}
+        - {x: 52.833344, y: -63.375}
+        - {x: 73.83334, y: -43.375}
+        - {x: 73.83334, y: 20.625}
+    - name: black pumpkin animation_57
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 480
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 31.625}
+        - {x: 8, y: 66.625}
+        - {x: -3, y: 72.625}
+        - {x: -8, y: 73.625}
+        - {x: -16, y: 73.625}
+        - {x: -24, y: 59.625}
+        - {x: -48, y: 28.625}
+        - {x: -64, y: -0.375}
+        - {x: -64, y: -56.375}
+        - {x: -30, y: -71.375}
+        - {x: 48, y: -71.375}
+        - {x: 74, y: -50.375}
+        - {x: 74, y: 15.625}
+        - {x: 48, y: 28.625}
+    - name: black pumpkin animation_58
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 480
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.833313, y: 73.625}
+        - {x: -63.833313, y: 43.625}
+        - {x: -63.833313, y: -63.375}
+        - {x: -30.833313, y: -71.375}
+        - {x: 50.166687, y: -71.375}
+        - {x: 74.16669, y: -41.375}
+        - {x: 74.16669, y: 24.625}
+        - {x: 13.166687, y: 73.625}
+    - name: black pumpkin animation_59
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 480
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.333374, y: 73.625}
+        - {x: -34.666626, y: 73.625}
+        - {x: -63.666626, y: 18.625}
+        - {x: -63.666626, y: -39.375}
+        - {x: -31.666626, y: -71.375}
+        - {x: 45.333374, y: -71.375}
+        - {x: 74.333374, y: -46.375}
+        - {x: 74.333374, y: 2.625}
+        - {x: 55.333374, y: 34.625}
+    - name: black pumpkin animation_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 73.5}
+        - {x: -65.5, y: 42.5}
+        - {x: -65.5, y: -71.5}
+        - {x: -63.5, y: -72.5}
+        - {x: 60.5, y: -72.5}
+        - {x: 73.5, y: -44.5}
+        - {x: 73.5, y: 19.5}
+        - {x: -0.5, y: 73.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: d1be68e144b163120be1f760519db277
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: refeito_0
+    21300002: refeito_1
+    21300004: refeito_2
+    21300006: refeito_3
+    21300008: refeito_4
+    21300010: refeito_5
+    21300012: refeito_6
+    21300014: refeito_7
+    21300016: refeito_8
+    21300018: refeito_9
+    21300020: refeito_10
+    21300022: refeito_11
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: refeito_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1146
+        width: 384
+        height: 263
+      alignment: 9
+      pivot: {x: 0.23041232, y: 0.4369203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e327d077248f43491a93d333b1249ee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_1
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1147
+        width: 387
+        height: 258
+      alignment: 9
+      pivot: {x: 0.2285579, y: 0.45058754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7359626d914ca158ba868b89c8fb4fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_2
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1149
+        width: 384
+        height: 260
+      alignment: 9
+      pivot: {x: 0.23171584, y: 0.44158044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de91979f158204adac0a6b19f2370bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_3
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1149
+        width: 383
+        height: 241
+      alignment: 9
+      pivot: {x: 0.22418006, y: 0.46066144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c1b70eb7751e05ea437ab199d55f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 662
+        width: 386
+        height: 240
+      alignment: 9
+      pivot: {x: 0.23008993, y: 0.4723503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d117651e3c8b65bb38be47991247e1ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_5
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 658
+        width: 408
+        height: 246
+      alignment: 9
+      pivot: {x: 0.21289945, y: 0.49367914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee2298b7990c06b6a0ce1888f218b19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_6
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 656
+        width: 386
+        height: 239
+      alignment: 9
+      pivot: {x: 0.23184188, y: 0.51732427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf478bf1d12ee659bf7801fa409f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_7
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 651
+        width: 384
+        height: 249
+      alignment: 9
+      pivot: {x: 0.23818874, y: 0.51028675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2eb4e57d60f30269a0b4f0c2bae168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 150
+        width: 383
+        height: 252
+      alignment: 9
+      pivot: {x: 0.22426806, y: 0.508611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c523478842829f56982ed80ae5aaeb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 155
+        width: 385
+        height: 248
+      alignment: 9
+      pivot: {x: 0.23217535, y: 0.5048913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aa915ea14f25e2e97f537d7added9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_10
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 160
+        width: 383
+        height: 247
+      alignment: 9
+      pivot: {x: 0.20381631, y: 0.486083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98beb1d49475f86391f20011952e3f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: refeito_11
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 158
+        width: 383
+        height: 246
+      alignment: 9
+      pivot: {x: 0.21387611, y: 0.48762575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc006b379e82f8f3b4797ff0e4d5811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eea0cde5a46d1afc09fd1d13e4b4b181
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

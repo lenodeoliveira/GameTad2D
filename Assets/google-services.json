@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300019058026",
+    "firebase_url": "https://log-test-2019.firebaseio.com",
+    "project_id": "log-test-2019",
+    "storage_bucket": "log-test-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300019058026:android:c73fbfe2279a29af",
+        "android_client_info": {
+          "package_name": "com.LogTest.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300019058026-7kq6bro8l6ercugf7i24ur2jtsi1kt5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB36TkuBEQKXHMyoESCpdTRxOZYX4T9hrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300019058026-7kq6bro8l6ercugf7i24ur2jtsi1kt5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
